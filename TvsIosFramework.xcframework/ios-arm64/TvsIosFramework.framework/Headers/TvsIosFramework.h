@@ -7,6 +7,10 @@
 
 #import <Foundation/Foundation.h>
 
+#import <TvsIosFramework/TVSCall.h>
+#import <TvsIosFramework/TvsSession.h>
+#import <TvsIosFramework/VideoService.h>
+
 //! Project version number for TvsIosFramework.
 FOUNDATION_EXPORT double TvsIosFrameworkVersionNumber;
 

@@ -4,9 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/TVSCall.h</key>
+		<data>
+		0rvumujtTbn/UubiJzR47ziETgM=
+		</data>
 		<key>Headers/TvsIosFramework.h</key>
 		<data>
-		0A/+TEJJ+PnsqHFLfSGrmBiTTyU=
+		uBl+FOzlflxiV2IzKzAOpaidP3Y=
+		</data>
+		<key>Headers/TvsSession.h</key>
+		<data>
+		RAAhWNBUWa4ed6t4z0TtCD7aUFQ=
+		</data>
+		<key>Headers/VideoService.h</key>
+		<data>
+		/XmW/jnx/ndFjbU9tidFGkzLAjM=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -19,15 +31,48 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/TVSCall.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0rvumujtTbn/UubiJzR47ziETgM=
+			</data>
+			<key>hash2</key>
+			<data>
+			27NIHIIka167xzWplWDgQnyDyArLB9iWDymEhO54Y9s=
+			</data>
+		</dict>
 		<key>Headers/TvsIosFramework.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0A/+TEJJ+PnsqHFLfSGrmBiTTyU=
+			uBl+FOzlflxiV2IzKzAOpaidP3Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z9021ol0eCy1wqiCZTUo7/7jyTC1eBDZsQhlGk78dO4=
+			5aZ7PBm/f3a+xF7+I3rC3HZJhPEEgJmmkgayV8IfjnQ=
+			</data>
+		</dict>
+		<key>Headers/TvsSession.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RAAhWNBUWa4ed6t4z0TtCD7aUFQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			qig8EEYT++vGIxkDu3GM9ngBy28D8UrsXic/hhrY4ZE=
+			</data>
+		</dict>
+		<key>Headers/VideoService.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/XmW/jnx/ndFjbU9tidFGkzLAjM=
+			</data>
+			<key>hash2</key>
+			<data>
+			grEbclikxrU2Sb+liEMOhieZkHI+VX3yfo7mubh4h+c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
