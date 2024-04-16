@@ -1,5 +1,4 @@
-# tvs-ios-sdk
-
+#!bin/bash
 
 ## Validate
 pod lib lint TvsIosFramework.podspec --verbose
