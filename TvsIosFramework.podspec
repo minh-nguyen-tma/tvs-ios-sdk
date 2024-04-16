@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   TMA Video Service for React Native apps
                    DESC
 
-  spec.homepage     = "https://video.t-building.vn/"
+  spec.homepage     = "https://www.t-building.vn/"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -73,7 +73,7 @@ Pod::Spec.new do |spec|
   # spec.watchos.deployment_target = "2.0"
   # spec.tvos.deployment_target = "9.0"
 
-  spec.vendored_frameworks = 'TvsIosFramework.framework'
+  spec.vendored_frameworks = 'TvsIosFramework.xcframework'
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -93,10 +93,10 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "TvsIosFramework/**/*.{h,m}"
+  # spec.source_files  = "TvsIosFramework/**/*.{h,m}"
   # spec.exclude_files = "TvsIosFramework/Exclude"
 
-  spec.public_header_files = "TvsIosFramework/*.h"
+  # spec.public_header_files = "TvsIosFramework/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

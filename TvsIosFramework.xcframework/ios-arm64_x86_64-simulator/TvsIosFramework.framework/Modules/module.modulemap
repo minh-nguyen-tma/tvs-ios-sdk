@@ -1,0 +1,6 @@
+framework module TvsIosFramework {
+  umbrella header "TvsIosFramework.h"
+  export *
+
+  module * { export * }
+}
