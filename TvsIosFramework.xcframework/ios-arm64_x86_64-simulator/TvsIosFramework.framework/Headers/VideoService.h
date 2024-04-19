@@ -59,8 +59,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (instancetype)getClassInstance;
 
 
-- (void)handleIncomingPush:(PKPushPayload *)payload forType:(PKPushType)type withCompletionHandler:(void (^)(void))completion;
-//- (void)handleIncomingPushPayload:(NSDictionary *)payload withCompletionHandler:(void (^)(void))completion;
+- (void)handleIncomingPush:(PKPushPayload *)payload;
 - (void)sendTextMessage:(NSString*)callId to:(NSString*)targetType message:(NSString*)message;
 - (void)toggleAudioRoute:(BOOL)toSpeaker;
 - (void)offerMediaForCall:(NSString*)callId;

@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/TvsIosFramework.h</key>
 		<data>
-		uBl+FOzlflxiV2IzKzAOpaidP3Y=
+		V0D0gXQtk/C/+0o2JRW0rQoNKV4=
 		</data>
-		<key>Headers/TvsSession.h</key>
+		<key>Headers/TvsPushRegistry.h</key>
 		<data>
-		RAAhWNBUWa4ed6t4z0TtCD7aUFQ=
+		68eRNrGBcotyY03Lr0LfDFBy+vM=
 		</data>
 		<key>Headers/VideoService.h</key>
 		<data>
-		/XmW/jnx/ndFjbU9tidFGkzLAjM=
+		p8n1k68vZIea+MKCIMWs8FacYxI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -46,33 +46,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uBl+FOzlflxiV2IzKzAOpaidP3Y=
+			V0D0gXQtk/C/+0o2JRW0rQoNKV4=
 			</data>
 			<key>hash2</key>
 			<data>
-			5aZ7PBm/f3a+xF7+I3rC3HZJhPEEgJmmkgayV8IfjnQ=
+			gg8nYQcf03PyHqhoIAtu3xtH5iHLyKpVzojlyiRtdV0=
 			</data>
 		</dict>
-		<key>Headers/TvsSession.h</key>
+		<key>Headers/TvsPushRegistry.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RAAhWNBUWa4ed6t4z0TtCD7aUFQ=
+			68eRNrGBcotyY03Lr0LfDFBy+vM=
 			</data>
 			<key>hash2</key>
 			<data>
-			qig8EEYT++vGIxkDu3GM9ngBy28D8UrsXic/hhrY4ZE=
+			Jo9QdqG33jBect2rW0u9x5g356c3vLzVWz2wobVxF9I=
 			</data>
 		</dict>
 		<key>Headers/VideoService.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/XmW/jnx/ndFjbU9tidFGkzLAjM=
+			p8n1k68vZIea+MKCIMWs8FacYxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			grEbclikxrU2Sb+liEMOhieZkHI+VX3yfo7mubh4h+c=
+			nmhbVDs3o/Xuyq5CD+PoDCUX1yl63d+lx7rCrDhQFmM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
