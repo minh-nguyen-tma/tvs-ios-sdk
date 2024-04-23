@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TvsIosFramework"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.6"
   spec.summary      = "TMA Video Service for iOS apps"
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  TMA Video Service for React Native apps
+  TMA Video Service client for iOS apps
                    DESC
 
   spec.homepage     = "https://www.t-building.vn/"
