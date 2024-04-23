@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TVSCall.h</key>
 		<data>
-		0rvumujtTbn/UubiJzR47ziETgM=
+		j7GxDGnpSTVCjcgzKxakXSlOEjw=
 		</data>
 		<key>Headers/TvsIosFramework.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/VideoService.h</key>
 		<data>
-		p8n1k68vZIea+MKCIMWs8FacYxI=
+		xjTIUceR3Du2QkO57mYEVzdDgTk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -35,11 +35,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0rvumujtTbn/UubiJzR47ziETgM=
+			j7GxDGnpSTVCjcgzKxakXSlOEjw=
 			</data>
 			<key>hash2</key>
 			<data>
-			27NIHIIka167xzWplWDgQnyDyArLB9iWDymEhO54Y9s=
+			lForhLoDJix/0KH35CrSz5c2XJWoaNY2JIzHtinF/YY=
 			</data>
 		</dict>
 		<key>Headers/TvsIosFramework.h</key>
@@ -68,11 +68,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p8n1k68vZIea+MKCIMWs8FacYxI=
+			xjTIUceR3Du2QkO57mYEVzdDgTk=
 			</data>
 			<key>hash2</key>
 			<data>
-			nmhbVDs3o/Xuyq5CD+PoDCUX1yl63d+lx7rCrDhQFmM=
+			oaUjFE2CNgVe/IkZ361To66zMHcHgV2aUPjA9xCc1ok=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

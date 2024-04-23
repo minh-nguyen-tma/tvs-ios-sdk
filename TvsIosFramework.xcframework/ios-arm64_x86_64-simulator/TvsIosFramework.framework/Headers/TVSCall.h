@@ -50,7 +50,7 @@ API_AVAILABLE(ios(6.0))
 
 @end
 
-@protocol TVSCallDelegate <NSObject>
+@protocol TVSCallDelegate
 - (void)callDidCreate:(TVSCall*)call
 withPeerConnectionConfig:(NSString*)peerConnectionConfig
              offerSdp:(NSString*)offerSdp
