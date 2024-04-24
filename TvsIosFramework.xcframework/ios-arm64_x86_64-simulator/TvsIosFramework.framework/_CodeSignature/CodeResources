@@ -28,6 +28,10 @@
 		<data>
 		Ag6J1cu5AQY1t9khM2pohLGxTIw=
 		</data>
+		<key>libobjc.A.tbd</key>
+		<data>
+		XknL1ElDsuJjSpLp23M6/1HWnyk=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -84,6 +88,17 @@
 			<key>hash2</key>
 			<data>
 			fcml1OWg40DhqKMoI/Y1y4wL8q5P+ZSCyktca55bkxw=
+			</data>
+		</dict>
+		<key>libobjc.A.tbd</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XknL1ElDsuJjSpLp23M6/1HWnyk=
+			</data>
+			<key>hash2</key>
+			<data>
+			jZKezKxAewtGtirtRy2ay4784o+PCJqk1G2WpEnQ5LM=
 			</data>
 		</dict>
 	</dict>
