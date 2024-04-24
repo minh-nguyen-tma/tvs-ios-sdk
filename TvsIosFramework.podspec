@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TvsIosFramework"
-  spec.version      = "0.0.9"
+  spec.version      = "0.0.11"
   spec.summary      = "TMA Video Service for iOS apps"
 
   # This description is used to generate tags and improve search results.
@@ -120,7 +120,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.framework  = "SomeFramework"
-  # spec.frameworks = "SomeFramework", "AnotherFramework"
+  spec.frameworks = "Foundation", "PushKit"
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
