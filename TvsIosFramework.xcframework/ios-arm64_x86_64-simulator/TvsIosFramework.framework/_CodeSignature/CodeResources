@@ -22,15 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zEvhG22OBIa/pHDh1m3kLKzt65I=
+		xaxEeZ/X0iHRBZHU/5XxDeJgvo0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Ag6J1cu5AQY1t9khM2pohLGxTIw=
-		</data>
-		<key>libobjc.A.tbd</key>
-		<data>
-		XknL1ElDsuJjSpLp23M6/1HWnyk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -88,17 +84,6 @@
 			<key>hash2</key>
 			<data>
 			fcml1OWg40DhqKMoI/Y1y4wL8q5P+ZSCyktca55bkxw=
-			</data>
-		</dict>
-		<key>libobjc.A.tbd</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XknL1ElDsuJjSpLp23M6/1HWnyk=
-			</data>
-			<key>hash2</key>
-			<data>
-			jZKezKxAewtGtirtRy2ay4784o+PCJqk1G2WpEnQ5LM=
 			</data>
 		</dict>
 	</dict>
