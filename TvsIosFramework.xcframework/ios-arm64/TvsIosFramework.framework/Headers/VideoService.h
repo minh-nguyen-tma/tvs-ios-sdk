@@ -45,7 +45,6 @@ NS_ASSUME_NONNULL_BEGIN
 #define kCallMessage @"message"
 #define kCallId @"callId"
 
-#define webSocketUrl @"ws://video.t-building.vn:3001/ws" //@"ws://11.11.7.10:3001/ws"
 
 #define LOCAL_ENDED 4000
 #define LOCAL_REJECTED 4002
@@ -53,11 +52,6 @@ NS_ASSUME_NONNULL_BEGIN
 #define REMOTE_REJECTED 4004
 
 @interface VideoService : NSObject
-
-//@property (nonatomic, strong) NSString *accessToken;
-
-+ (instancetype)getClassInstance;
-
 
 - (void)registerWithToken:(nullable NSString *)token;
 - (void)unregister;
