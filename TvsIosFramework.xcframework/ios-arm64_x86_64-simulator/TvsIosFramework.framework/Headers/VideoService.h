@@ -6,7 +6,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <PushKit/PKPushPayload.h>
 #import <TvsIosFramework/TVSCall.h>
 
 NS_ASSUME_NONNULL_BEGIN
@@ -55,7 +54,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)registerWithToken:(nullable NSString *)token;
 - (void)unregister;
-- (void)handleIncomingPush:(PKPushPayload *)payload;
+- (void)handleIncomingPush:(NSDictionary *)payload;
 - (void)sendTextMessage:(NSString*)callId to:(NSString*)targetType message:(NSString*)message;
 - (void)toggleAudioRoute:(BOOL)toSpeaker;
 - (void)offerMediaForCall:(NSString*)callId;
