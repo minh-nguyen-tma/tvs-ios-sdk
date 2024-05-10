@@ -54,7 +54,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)registerWithToken:(nullable NSString *)token;
 - (void)unregister;
-- (void)handleIncomingPush:(NSDictionary *)payload;
+- (void)handleIncomingPush:(NSDictionary *)payload
+     withCompletionHandler:(void(^)(NSError *__nullable error, TVSCall *__nullable call))completionHandler;
 - (void)sendTextMessage:(NSString*)callId to:(NSString*)targetType message:(NSString*)message;
 - (void)toggleAudioRoute:(BOOL)toSpeaker;
 - (void)offerMediaForCall:(NSString*)callId;
