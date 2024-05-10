@@ -20,6 +20,8 @@ NS_ASSUME_NONNULL_BEGIN
 #define kMessageTypeText @"text-message"
 #define kMessageTypeKeepAlive @"keep-alive"
 
+#define kCallStateAnswered @"ANSWERED"
+
 @protocol TVSCallDelegate;
 
 API_AVAILABLE(ios(6.0))
@@ -35,6 +37,7 @@ API_AVAILABLE(ios(6.0))
 @property (nonatomic, strong) NSString *peerConnectionConfig;
 @property (nonatomic, strong) NSString *remoteSdp;
 @property (nonatomic, strong) NSString *remoteCandidates;
+@property (nonatomic, strong) NSString *state;
 @property (nonatomic) BOOL isIncomingCall;
 
 @property (nonatomic, weak) id <TVSCallDelegate> delegate;
