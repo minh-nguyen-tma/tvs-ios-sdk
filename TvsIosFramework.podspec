@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TvsIosFramework"
-  spec.version      = "0.0.16-local"
+  spec.version      = "0.0.17-local"
   spec.summary      = "TMA Video Service for iOS apps"
 
   # This description is used to generate tags and improve search results.
