@@ -27,7 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
 API_AVAILABLE(ios(6.0))
 @interface TVSCall : NSObject
 
-@property (nonatomic, strong) NSUUID *uuid;
+@property (nonatomic, strong, nullable) NSUUID *uuid;
 @property (nonatomic, strong) NSString *callId;
 @property (nonatomic, strong) NSString *from;
 @property (nonatomic, strong) NSString *to;
